@@ -1,6 +1,6 @@
 # Zillow-Filling-form-automation
 
-Finding a flat to rent is necessary and sometime can be hectic too! So the easy way is to gather related important information by automating some tediuos task by using selenium.
+Finding a flat to rent is necessary and sometime can be hectic too! So the easy way is to gather related important information by automating some tedious task by using selenium.
 
 https://user-images.githubusercontent.com/56337798/215048889-1f064e90-2fea-4eff-b8a0-533aeaba3d93.mp4
 
